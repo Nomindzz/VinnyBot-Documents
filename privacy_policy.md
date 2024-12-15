@@ -8,7 +8,6 @@ Welcome to our Discord Bot Vinny#4203! This privacy policy explains how we colle
 When you use our Discord bot, we collect the following types of data:
 
 - **User IDs and Names:** We collect the unique Discord user IDs and usernames of all users who interact with the bot.
-- **Messages:** We store all messages sent by users while interacting with the bot.
 - **Command Usage:** We track the commands used by users and when they are used to monitor bot interaction patterns.
 - **Server Information:** We collect information about the servers where our bot is used, including server IDs.
 - **Activity Data:** We gather data about how often users interact with the bot and the nature of their interactions (e.g., frequency of game participation, use of commands, etc.).
